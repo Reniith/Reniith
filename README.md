@@ -42,23 +42,18 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white)
+
 
 </div>
 
 ---
 
-## 🎓 Certifications
-- 📜 Java Fundamentals – *IBM* (Mar 2024)  
-- 📜 Introduction to Python – *IBM* (Sep 2023)  
-
----
 
 ## 📊 GitHub Stats
 <div align="center">
   
-![Reniith's GitHub stats](https://github-readme-stats.vercel.app/api?username=reniithm&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reniithm&layout=compact&theme=tokyonight&hide_border=true)
+![Reniith's GitHub stats](https://github-readme-stats.vercel.app/api?username=reniith&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reniith&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
