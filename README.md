@@ -1,13 +1,13 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi%20👋%20I'm%20Reniith%20M&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi%20👋%20I'm%20Reniith&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 ---
 
 ## 🚀 About Me
-💻 Computer Science Undergraduate (B.E. CSE @ Hindusthan College of Engineering and Technology)  
+💻 Computer Science Undergrad 
 🌟 Strong foundations in **Java, Python, Full-Stack Development, and Data Science**  
 📡 Passionate about **Satellite Communications, Cybersecurity, and AI/ML**  
-🎯 Goal: Contribute to **Deep Space Communications & ISRO Research**  
+ 
 
 ---
 
