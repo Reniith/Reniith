@@ -4,40 +4,53 @@
 ---
 
 ## 🚀 About Me
-💻 Computer Science Engineer (B.E. CSE @ Hindusthan College of Engineering and Technology)  
-🌌 Passionate about **Satellite Communications | Cybersecurity | AI/ML**  
-🎯 Future Goal → Contribute to **Deep Space Communications & ISRO research**  
+💻 Computer Science Undergraduate (B.E. CSE @ Hindusthan College of Engineering and Technology)  
+🌟 Strong foundations in **Java, Python, Full-Stack Development, and Data Science**  
+📡 Passionate about **Satellite Communications, Cybersecurity, and AI/ML**  
+🎯 Goal: Contribute to **Deep Space Communications & ISRO Research**  
 
 ---
 
-## 🔭 Current Work
-- 🛡️ **Web Phishing Detection** with Flask + ML (92% accuracy)  
-- 📊 **Expense Tracker (MERN + Cloud)** with real-time transactions  
-- 🎵 **AI Music Assistant (Android)** – Voice-controlled Spotify integration  
-- 🤖 **Real-Time Monocular Depth Estimation** on Raspberry Pi  
+## 🔭 Featured Projects
+- 💰 **Expense Tracker with Cloud Integration**  
+  🔹 Built using **React, Node.js, MongoDB** with secure REST APIs  
+  🔹 Deployed on **Firebase Cloud**, ensuring **94% uptime**  
+  🔹 Improved data entry efficiency by **30%**  
+
+- 🛡️ **Web Phishing Detection with Data Science**  
+  🔹 ML models (**Random Forest, SVM, Decision Trees**) with **92% accuracy**  
+  🔹 Flask backend + React frontend for **real-time phishing detection**  
+  🔹 Tested with **1,000+ URLs**, adaptable for evolving cyber threats  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
+
+---
+
+## 🎓 Certifications
+- 📜 Java Fundamentals – *IBM* (Mar 2024)  
+- 📜 Introduction to Python – *IBM* (Sep 2023)  
 
 ---
 
@@ -51,19 +64,11 @@
 
 ---
 
-## 🌍 Achievements & Interests
-- 🌐 Participant – **Bharatiya Antariksh Hackathon (ISRO)**  
-- 🔐 Exploring **Cybersecurity with Arduino**  
-- 📡 Passionate about **Deep Space Networks (IDSN) & SETI research**  
-
----
-
 ## 📫 Connect with Me
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/reniithm)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reniith)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reniith1407@gmail.com)  
 
 </div>
 
